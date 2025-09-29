@@ -102,138 +102,122 @@ header {
 /* Card 1 - Yellow Glow */
 .card:nth-child(1):hover {
   box-shadow: 0 0 25px #FFD700, 0 0 50px #FFD700, 0 0 75px #FFD700;
-  text-shadow: 0 0 10px #FFD700, 0 0 20px #FFD700;
+  
   color: #FFD700;
 }
 
 /* Card 2 - Blue Glow */
 .card:nth-child(2):hover {
   box-shadow: 0 0 25px #00BFFF, 0 0 50px #00BFFF, 0 0 75px #00BFFF;
-  text-shadow: 0 0 10px #00BFFF, 0 0 20px #00BFFF;
+  
   color: #00BFFF;
 }
 
 /* Card 3 - Green Glow */
 .card:nth-child(3):hover {
   box-shadow: 0 0 25px #32CD32, 0 0 50px #32CD32, 0 0 75px #32CD32;
-  text-shadow: 0 0 10px #32CD32, 0 0 20px #32CD32;
+  
   color: #32CD32;
 }
 
 /* Card 4 - Red Glow */
 .card:nth-child(4):hover {
   box-shadow: 0 0 25px #FF4500, 0 0 50px #FF4500, 0 0 75px #FF4500;
-  text-shadow: 0 0 10px #FF4500, 0 0 20px #FF4500;
   color: #FF4500;
 }
 
 /* Card 5 - Purple Glow */
 .card:nth-child(5):hover {
   box-shadow: 0 0 25px #9400D3, 0 0 50px #9400D3, 0 0 75px #9400D3;
-  text-shadow: 0 0 10px #9400D3, 0 0 20px #9400D3;
   color: #9400D3;
 }
 
 /* Card 6 - Cyan Glow */
 .card:nth-child(6):hover {
   box-shadow: 0 0 25px #00FFFF, 0 0 50px #00FFFF, 0 0 75px #00FFFF;
-  text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF;
   color: #00FFFF;
 }
 
 /* Card 7 - Pink Glow */
 .card:nth-child(7):hover {
   box-shadow: 0 0 25px #FF1493, 0 0 50px #FF1493, 0 0 75px #FF1493;
-  text-shadow: 0 0 10px #FF14
 }
 
 /* Card 8 - Cyan Glow */
 .card:nth-child(8):hover {
   box-shadow: 0 0 25px #FFD700, 0 0 50px #FFD700, 0 0 75px #FFD700;
-  text-shadow: 0 0 10px #FFD700, 0 0 20px #FFD700;
   color: #FFD700;
 }
 
 /* Card 9 - Cyan Glow */
 .card:nth-child(9):hover {
   box-shadow: 0 0 25px #00BFFF, 0 0 50px #00BFFF, 0 0 75px #00BFFF;
-  text-shadow: 0 0 10px #00BFFF, 0 0 20px #00BFFF;
   color: #00BFFF;
 }
 
 /* Card 10 - Cyan Glow */
 .card:nth-child(10):hover {
   box-shadow: 0 0 25px #00FFFF, 0 0 50px #00FFFF, 0 0 75px #00FFFF;
-  text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF;
   color: #00FFFF;
 }
 
 /* Card 11 - Yellow Glow */
 .card:nth-child(11):hover {
   box-shadow: 0 0 25px #FFD700, 0 0 50px #FFD700, 0 0 75px #FFD700;
-  text-shadow: 0 0 10px #FFD700, 0 0 20px #FFD700;
+  
   color: #FFD700;
 }
 
 /* Card 12 - Blue Glow */
 .card:nth-child(12):hover {
   box-shadow: 0 0 25px #00BFFF, 0 0 50px #00BFFF, 0 0 75px #00BFFF;
-  text-shadow: 0 0 10px #00BFFF, 0 0 20px #00BFFF;
   color: #00BFFF;
 }
 
 /* Card 13 - Green Glow */
 .card:nth-child(13):hover {
   box-shadow: 0 0 25px #32CD32, 0 0 50px #32CD32, 0 0 75px #32CD32;
-  text-shadow: 0 0 10px #32CD32, 0 0 20px #32CD32;
   color: #32CD32;
 }
 
 /* Card 14 - Red Glow */
 .card:nth-child(14):hover {
   box-shadow: 0 0 25px #FF4500, 0 0 50px #FF4500, 0 0 75px #FF4500;
-  text-shadow: 0 0 10px #FF4500, 0 0 20px #FF4500;
-  color: #FF4500;
+ color: #FF4500;
 }
 
 /* Card 15 - Purple Glow */
 .card:nth-child(15):hover {
   box-shadow: 0 0 25px #9400D3, 0 0 50px #9400D3, 0 0 75px #9400D3;
-  text-shadow: 0 0 10px #9400D3, 0 0 20px #9400D3;
   color: #9400D3;
 }
 
 /* Card 16 - Cyan Glow */
 .card:nth-child(16):hover {
   box-shadow: 0 0 25px #00FFFF, 0 0 50px #00FFFF, 0 0 75px #00FFFF;
-  text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF;
   color: #00FFFF;
 }
 
 /* Card 17 - Pink Glow */
 .card:nth-child(17):hover {
   box-shadow: 0 0 25px #FF1493, 0 0 50px #FF1493, 0 0 75px #FF1493;
-  text-shadow: 0 0 10px #FF14
 }
 
 /* Card 18 - Cyan Glow */
 .card:nth-child(18):hover {
   box-shadow: 0 0 25px #FFD700, 0 0 50px #FFD700, 0 0 75px #FFD700;
-  text-shadow: 0 0 10px #FFD700, 0 0 20px #FFD700;
   color: #FFD700;
 }
 
 /* Card 19 - Cyan Glow */
 .card:nth-child(19):hover {
   box-shadow: 0 0 25px #00BFFF, 0 0 50px #00BFFF, 0 0 75px #00BFFF;
-  text-shadow: 0 0 10px #00BFFF, 0 0 20px #00BFFF;
   color: #00BFFF;
 }
 
 /* Card 20 - Cyan Glow */
 .card:nth-child(20):hover {
   box-shadow: 0 0 25px #00FFFF, 0 0 50px #00FFFF, 0 0 75px #00FFFF;
-  text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF;
   color: #00FFFF;
 }
 
@@ -652,6 +636,7 @@ footer {
 .close-btn:hover {
   color: #fff;
 }
+
 
 
 
